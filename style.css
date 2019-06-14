@@ -23,6 +23,10 @@ section #featured-property {
   width: 700px;
 }
 
+section p {
+  font-size: 15px;
+}
+
 #details div {
   display: block;
   float: left;
