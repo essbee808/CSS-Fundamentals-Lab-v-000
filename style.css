@@ -26,6 +26,7 @@ section #featured-property {
 section p {
   font-size: 20px;
   text-align: center;
+  width: 25%;
 }
 
 #details div {
